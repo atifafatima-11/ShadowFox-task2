@@ -11,7 +11,7 @@ font-family:Arial,sans-serif;
 
 body{
 .login-box{
-  background-image: url(C:\Users\hp\OneDrive\Documents\ATIFA\shadow2\petkart\src\food.jpg);
+ background-image: url('./food.jpg');
   background-size: cover;
   background-position: center; 
   background-repeat: no-repeat; 
@@ -91,7 +91,7 @@ align-items:center;
 /* background:linear-gradient(135deg,#111827,#1f2937); */
 color:black;
 text-align:center;
-background-image: url(C:\Users\hp\OneDrive\Documents\ATIFA\shadow2\petkart\src\finalpet.jpg);
+background-image: url('./finalpet.jpg');
  background-size: cover;
   background-position: center; 
   background-repeat: no-repeat; 
